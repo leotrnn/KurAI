@@ -9,7 +9,7 @@ En gros c'est chatgpt de la hess sauf que lui envoie pas tes infos persos aux GA
 
 ### Pourquoi je crée KurAI
 Jsp je m'emmerde
-
+<hr>
 ### Moi aussi la je veux parler avec le bonhomme on fait comment
 installe python et pip déjà
 ```
@@ -30,6 +30,6 @@ et ensuite tu m'lances ce truc la et enjoy
 ```
 python kurAI.py
 ```
-
+<hr>
 ### Wah mais t'es un mec incroyable et sexy en plus ou est ce que je peux te suivre ?
 [Mon instagram évidemment (Abonne toi si t'es une baddie)](https://www.instagram.com/leo.trno/)
