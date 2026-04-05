@@ -3,8 +3,6 @@
 </p>
 
 <h1 align="center"> KurAI (Version 1.0.0) </h1>
-
-<h2 align="center">C'est quoi KurAI</h2>
 <p align="justify">En gros c'est chatgpt de la hess sauf que lui envoie pas tes infos persos aux GAFA il s'en sert juste pour répondre à tes questions de merde</p>
 
 <h2 align="center">Pourquoi je crée KurAI</h2>
