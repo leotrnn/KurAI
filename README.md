@@ -12,24 +12,30 @@ Jsp je m'emmerde
 
 <h2 align="center">Moi aussi la je veux parler avec le bonhomme on fait comment</h2>
 <p align="justify">installe python et pip déjà</p>
+
 ```
 sudo apt update 
 sudo apt install python3-pip
 ```
 
 <p align="justify">ensuite installe ces deux trucs la jsp à quoi ça sert je suis pas dev (nn j'dec en grods scikit c'est pour la compréhension de phrases et markovify la génération de texte à partir des phrases apprises)</p>
+
 ```
 pip3 install scikit-learn
 pip install markovify
 ```
+
 <p align="justify">lance le venv la histoire d'éviter les bugs tmtc</p>
+
 ```
 source venv/bin/activate
 ```
+
 <p align="justify">et ensuite tu m'lances ce truc la et enjoy</p>
+
 ```
 python kurAI.py
 ```
 
-### Wah mais t'es un mec incroyable et sexy en plus ou est ce que je peux te suivre ?
+<h2 align="center">Wah mais t'es un mec incroyable et sexy en plus ou est ce que je peux te suivre ?</h2>
 <p align="justify">[Mon instagram évidemment (Abonne toi si t'es une baddie)](https://www.instagram.com/leo.trno/)</p>
