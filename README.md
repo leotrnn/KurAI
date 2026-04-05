@@ -1,6 +1,7 @@
 <p align="center">
     <img src="https://github.com/user-attachments/assets/a5a94345-f346-451f-b13c-57886bd46c74" alt="logo" width="400">
 </p>
+
 # KurAI (Version 1.0.0)
 
 ## C'est quoi KurAI
