@@ -36,5 +36,4 @@ python kurAI.py
 ```
 
 <h2 align="center">Wah mais t'es un mec incroyable et sexy je peux te suivre ou ?</h2>
-
-<p align="justify">[Mon instagram évidemment (Abonne toi si t'es une baddie)](https://www.instagram.com/leo.trno/)</p>
+[Mon instagram évidemment (Abonne toi si t'es une baddie)](https://www.instagram.com/leo.trno/)
