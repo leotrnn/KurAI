@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/4dd77709-d097-4dfb-bae1-01326a467fa3" alt="logo" width="400">
+    <img src="https://github.com/user-attachments/assets/4920dceb-f13e-4122-b2ff-246329928974" alt="logo" width="400">
 </p>
 
 # KurAI (Version 1.0.0)
