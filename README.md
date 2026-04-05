@@ -10,7 +10,7 @@ En gros c'est chatgpt de la hess sauf que lui envoie pas tes infos persos aux GA
 ## Pourquoi je crée KurAI
 Jsp je m'emmerde
 
-## Comment moi aussi je peux discuter avec KurAI
+## Moi aussi la je veux parler avec le bonhomme on fait comment
 installe python et pip déjà
 ```
 sudo apt update 
