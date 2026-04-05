@@ -73,7 +73,7 @@ def add_to_responses(sentence):
         f.write(sentence + "\n")
 
 def main():
-    print("🤖 Chatbot Next-Level lancé ! (quit ou bye pour quitter)")
+    print("KurAI (Version 1.0.0)")
 
     data = load_data()
     memory = load_memory()
@@ -101,15 +101,15 @@ def main():
             if generated:
                 response = generated
             else:
-                response = "Hmm... je ne sais pas quoi dire 😅"
+                response = "Oh le sang j'ai jamais appris à répondre à ça encore"
 
         if "name" in memory:
             response = response.replace("{name}", memory["name"])
 
         print("Bot:", response)
 
-        print("💡 Aide ton bot à apprendre")
-        correction = input("Corriger/valider cette réponse (entrée = ok): ").strip()
+        print("Comment KurAI devrait répondre la prochaine fois ?")
+        correction = input("Corriger/valider cette réponse ou ajouter une nouvelle réponse : ").strip()
         if correction:
             response = correction
 
