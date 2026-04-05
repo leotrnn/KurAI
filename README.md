@@ -4,7 +4,7 @@
 
 <h1 align="center"> KurAI (Version 1.0.0) </h1>
 <p align="justify">En gros c'est chatgpt de la hess sauf que lui envoie pas tes infos persos aux GAFA il s'en sert juste pour répondre à tes questions de merde</p>
-
+<p align="justify">Pour l'instant il est con dcp faut que je l'alimente en discutant avec lui mais j'ai pas trop le temps la t'as capté mais inchallah un jour c'est un monstre</p>
 <h2 align="center">Pourquoi je crée KurAI</h2>
 Jsp je m'emmerde
 
