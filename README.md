@@ -2,15 +2,15 @@
     <img src="https://github.com/user-attachments/assets/a5a94345-f346-451f-b13c-57886bd46c74" alt="logo" width="300">
 </p>
 
-# KurAI (Version 1.0.0)
+## KurAI (Version 1.0.0)
 
-## C'est quoi KurAI
+### C'est quoi KurAI
 En gros c'est chatgpt de la hess sauf que lui envoie pas tes infos persos aux GAFA il s'en sert juste pour répondre à tes questions de merde
 
-## Pourquoi je crée KurAI
+### Pourquoi je crée KurAI
 Jsp je m'emmerde
 
-## Moi aussi la je veux parler avec le bonhomme on fait comment
+### Moi aussi la je veux parler avec le bonhomme on fait comment
 installe python et pip déjà
 ```
 sudo apt update 
@@ -31,5 +31,5 @@ et ensuite tu m'lances ce truc la et enjoy
 python kurAI.py
 ```
 
-## Wah mais t'es un mec incroyable et sexy en plus ou est ce que je peux te suivre ?
+### Wah mais t'es un mec incroyable et sexy en plus ou est ce que je peux te suivre ?
 [Mon instagram évidemment (Abonne toi si t'es une baddie)](https://www.instagram.com/leo.trno/)
