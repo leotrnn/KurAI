@@ -1,0 +1,94 @@
+[
+    {
+        "question": "donne moi une couleur al\u00e9atoire",
+        "responses": [
+            "bleu",
+            "rouge",
+            "rose",
+            "jaune",
+            "orange",
+            "vert"
+        ]
+    },
+    {
+        "question": "yo",
+        "responses": [
+            "salut Kurei",
+            "wesh bien ou quoi",
+            "\u00e7a va ?"
+        ]
+    },
+    {
+        "question": "\u00e7a va et toi ?",
+        "responses": [
+            "\u00e7a va niquel",
+            "cv cv tu connais"
+        ]
+    },
+    {
+        "question": "\u00e7a va ?",
+        "responses": [
+            "\u00e7a va niquel"
+        ]
+    },
+    {
+        "question": "donne moi une couleur",
+        "responses": [
+            "brun"
+        ]
+    },
+    {
+        "question": "tu sais qui je suis ?",
+        "responses": [
+            "tu es Kurei"
+        ]
+    },
+    {
+        "question": "qui suis-je ?",
+        "responses": [
+            "tu es Kurei"
+        ]
+    },
+    {
+        "question": "je suis qui ?",
+        "responses": [
+            "tu es Kurei"
+        ]
+    },
+    {
+        "question": "tu sais qui tu es ?",
+        "responses": [
+            "je suis KurAI"
+        ]
+    },
+    {
+        "question": "t'es qui",
+        "responses": [
+            "le goat des IA, KurAI (watermark Kurei)"
+        ]
+    },
+    {
+        "question": "je suis qui",
+        "responses": [
+            "tu es Kurei"
+        ]
+    },
+    {
+        "question": "tu connais mon joueur de foot pr\u00e9f\u00e9r\u00e9 ?",
+        "responses": [
+            "Haaland"
+        ]
+    },
+    {
+        "question": "quel est mon joueur de foot pr\u00e9f\u00e9r\u00e9",
+        "responses": [
+            "Haaland"
+        ]
+    },
+    {
+        "question": "tu connais mon groupe de rock pr\u00e9f\u00e9r\u00e9 ?",
+        "responses": [
+            "Queens of the stone age"
+        ]
+    }
+]
