@@ -2,8 +2,7 @@
     <img src="https://github.com/user-attachments/assets/a5a94345-f346-451f-b13c-57886bd46c74" alt="logo" width="300">
 </p>
 
-<h2 align="center"> KurAI (Version 1.0.0) </h2>
-<hr>
+<h1 align="center"> KurAI (Version 1.0.0) </h1>
 
 ### C'est quoi KurAI
 En gros c'est chatgpt de la hess sauf que lui envoie pas tes infos persos aux GAFA il s'en sert juste pour répondre à tes questions de merde
