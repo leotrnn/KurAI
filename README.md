@@ -2,7 +2,7 @@
     <img src="https://github.com/user-attachments/assets/a5a94345-f346-451f-b13c-57886bd46c74" alt="logo" width="300">
 </p>
 
-<p> KurAI (Version 1.0.0) </p>
+<h2 align="center"> KurAI (Version 1.0.0) </h2>
 <hr>
 
 ### C'est quoi KurAI
