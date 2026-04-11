@@ -35,5 +35,6 @@ source venv/bin/activate
 python kurAI.py
 ```
 
-<h2 align="center">Wah mais t'es un mec incroyable et sexy en plus ou est ce que je peux te suivre ?</h2>
-<p align="justify">[Mon instagram évidemment (Abonne toi si t'es une baddie)](https://www.instagram.com/leo.trno/)</p>
+<h2 align="center">Wah mais t'es un mec incroyable et sexy je peux te suivre ou ?</h2>
+
+[Mon instagram évidemment (Abonne toi si t'es une baddie)](https://www.instagram.com/leo.trno/)
