@@ -1,0 +1,14 @@
+Installé embeddings sémantiques, représentations vectorielles qui transforment des mots, phrases ou documents en listes de nombres réels, capturant leur sens contextuel dans un espace multidimensionnel
+
+pip install sentence-transformers
+
+installé wikipedia (bdd de bz)
+
+pip install wikipedia
+
+installé customkinter
+
+pip install customtkinter
+
+installé PySide6 pour l'UI
+pip install PySide6

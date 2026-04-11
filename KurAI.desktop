@@ -1,0 +1,9 @@
+Desktop Entry]
+Version=1.0
+Type=Application
+Name=KurAI
+Comment=IA développée par Kurei
+Exec=python3 /home/leo20/projects/KurAI/app.py
+Icon=/home/leo20/projects/KurAI/icon.png
+Terminal=false
+Categories=Utility;

@@ -91,7 +91,7 @@ def main():
             name = user_input_clean.replace("appelle-moi", "").strip()
             memory["name"] = name
             save_memory(memory)
-            print(f"Bot: D'accord, je t'appellerai {name} 😄")
+            print(f"Bot: D'accord, je t'appellerai {name}")
             continue
 
         response = get_response(user_input_clean, data)

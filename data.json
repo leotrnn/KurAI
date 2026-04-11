@@ -1,94 +1,38 @@
 [
     {
-        "question": "donne moi une couleur al\u00e9atoire",
+        "question": "wsh",
         "responses": [
-            "bleu",
-            "rouge",
-            "rose",
-            "jaune",
-            "orange",
-            "vert"
+            "wsh bien ?"
         ]
     },
     {
-        "question": "yo",
+        "question": "trql trql",
         "responses": [
-            "salut Kurei",
-            "wesh bien ou quoi",
-            "\u00e7a va ?"
+            "en bien en bien"
         ]
     },
     {
-        "question": "\u00e7a va et toi ?",
+        "question": "ah d'accord",
         "responses": [
-            "\u00e7a va niquel",
-            "cv cv tu connais"
-        ]
-    },
-    {
-        "question": "\u00e7a va ?",
-        "responses": [
-            "\u00e7a va niquel"
-        ]
-    },
-    {
-        "question": "donne moi une couleur",
-        "responses": [
-            "brun"
-        ]
-    },
-    {
-        "question": "tu sais qui je suis ?",
-        "responses": [
-            "tu es Kurei"
-        ]
-    },
-    {
-        "question": "qui suis-je ?",
-        "responses": [
-            "tu es Kurei"
-        ]
-    },
-    {
-        "question": "je suis qui ?",
-        "responses": [
-            "tu es Kurei"
-        ]
-    },
-    {
-        "question": "tu sais qui tu es ?",
-        "responses": [
-            "je suis KurAI"
+            "Hésite pas si t'as d'autres question hein"
         ]
     },
     {
         "question": "t'es qui",
         "responses": [
-            "le goat des IA, KurAI (watermark Kurei)"
+            "KurAI, on my way to humble chatgpt tmtc"
         ]
     },
     {
-        "question": "je suis qui",
+        "question": "yo",
         "responses": [
-            "tu es Kurei"
+            "yo"
         ]
     },
     {
-        "question": "tu connais mon joueur de foot pr\u00e9f\u00e9r\u00e9 ?",
+        "question": "comment tu vas",
         "responses": [
-            "Haaland"
-        ]
-    },
-    {
-        "question": "quel est mon joueur de foot pr\u00e9f\u00e9r\u00e9",
-        "responses": [
-            "Haaland"
-        ]
-    },
-    {
-        "question": "tu connais mon groupe de rock pr\u00e9f\u00e9r\u00e9 ?",
-        "responses": [
-            "Queens of the stone age"
+            "cv cv et toi"
         ]
     }
 ]
